@@ -1,0 +1,25 @@
+=== Project structure ===
+src/App.jsx
+src/components/About.jsx
+src/components/Contact.jsx
+src/components/Footer.jsx
+src/components/Hero.jsx
+src/components/Navbar.jsx
+src/components/Projects.jsx
+src/components/Reveal.jsx
+src/components/Skills.jsx
+src/data.js
+src/hooks/useReveal.js
+src/index.css
+src/main.jsx
+
+=== Files ===
+dist
+index.html
+node_modules
+outputs
+package-lock.json
+package.json
+src
+todo.md
+vite.config.js

@@ -1,0 +1,11 @@
+v22.23.2
+12.0.2
+/workspace
+total 28
+drwxr-xr-x  6 user user 4096 Oct  9 14:06 .
+drwxr-xr-x 20 root root 4096 Oct  6 07:38 ..
+drwxr-xr-x  4 user user 4096 Sep  2 06:21 .agent_hooks
+drwxr-xr-x 10 root root 4096 Oct  9 14:06 .browser_data
+drwxr-xr-x  3 root root 4096 Oct  6 07:37 .psiphon_data
+drwxr-xr-x  2 root root 4096 Oct  9 14:06 outputs
+-rw-r--r--  1 root root  584 Oct  9 14:06 todo.md

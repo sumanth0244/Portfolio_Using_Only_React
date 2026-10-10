@@ -1,0 +1,7 @@
+npm notice run animated-portfolio@1.0.0 dev
+npm notice run vite --host 0.0.0.0
+
+  VITE v5.4.21  ready in 164 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://172.30.99.69:5173/

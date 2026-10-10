@@ -1,0 +1,20 @@
+=== package.json dependencies ===
+deps: {"react":"^18.3.1","react-dom":"^18.3.1"}
+devDeps: {"@vitejs/plugin-react":"^4.3.1","vite":"^5.4.2"}
+
+=== Any backend / server / fetch code? ===
+src/data.js:28:  { name: 'Node.js & Express', level: 86 },
+src/data.js:41:  { emoji: '🗄️', label: 'MongoDB' },
+src/hooks/useReveal.js:5: * Returns [ref, isVisible]. Uses IntersectionObserver (no libraries).
+src/hooks/useReveal.js:16:    if (typeof IntersectionObserver === 'undefined') {
+src/hooks/useReveal.js:21:    const observer = new IntersectionObserver(
+src/hooks/useReveal.js:26:            observer.unobserve(entry.target)
+src/hooks/useReveal.js:33:    observer.observe(el)
+src/hooks/useReveal.js:34:    return () => observer.disconnect()
+src/hooks/useReveal.js:109:    if (!sections.length || typeof IntersectionObserver === 'undefined') return
+src/hooks/useReveal.js:111:    const observer = new IntersectionObserver(
+src/hooks/useReveal.js:120:    sections.forEach((s) => observer.observe(s))
+src/hooks/useReveal.js:121:    return () => observer.disconnect()
+
+=== Any non-React animation/UI libs? ===
+None found — pure React + CSS ✅
