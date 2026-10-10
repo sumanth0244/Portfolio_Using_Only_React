@@ -49,7 +49,7 @@ export default function Hero() {
             <div className="avatar-ring" aria-hidden="true" />
             <img
               className="avatar-img"
-              src="/Sumanth_Professional2.jpeg"
+              src="/public/Sumanth_Professional2.jpeg"
               alt="Portrait of Sumanth"
               loading="eager"
             />
